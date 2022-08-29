@@ -10,7 +10,7 @@ public class Inferencia {
 		System.out.println(c);
 		
 		
-		c = "outra texto;";
+		c = "outro texto;";
 		System.out.println(c);
 		double d ;
 		d= 123.65;
