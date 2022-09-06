@@ -1,4 +1,4 @@
-package Fundamentos_java;
+package Desafios.Fundamentos_java;
 
 import java.util.Scanner;
 
@@ -16,7 +16,7 @@ public class DesafioConversao {
 		
 		 double salario = Double.parseDouble(valor1);
 		 double salario2 = Double.parseDouble(valor2);
-		 double salario3 = Double.parseDouble(valor1);
+		 double salario3 = Double.parseDouble(valor3);
 		 
 		 double media = (salario + salario2 + salario3) /3;
 		 System.out.println("A media dos salarios é: "+ media);
